@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Baptou88/Baptou88/blob/snake/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Baptou88/Baptou88/blob/snake/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/Baptou88/Baptou88/blob/snake/github-snake.svg">
+</picture>
+
+[![Metrics](/github-metrics.svg)](https://github.com/Baptou88)
+
+<!--![Profile views](https://komarev.com/ghpvc/?username=SirLynix&style=plastic)-->
+</div>
 <!--
 **Baptou88/Baptou88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
