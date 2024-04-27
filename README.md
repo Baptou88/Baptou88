@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+have an idea, try to code it, understand why it doesn't work, fix bugs, create new ones, and start again
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Baptou88/Baptou88/blob/snake/github-snake-dark.svg">
